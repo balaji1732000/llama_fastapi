@@ -1,0 +1,4 @@
+pip install pydantic
+pip install fastapi
+pip install uvicorn
+pip install llama-cpp-python
