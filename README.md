@@ -7,7 +7,7 @@ This application is a FastAPI server that uses the Llama model to answer questio
 - Python 3.6 or higher
 - FastAPI
 - Uvicorn (for running the FastAPI server)
-- Llama C++ model
+- Llama-cpp-python
 - OpenAI
 - Pydantic
 
@@ -17,4 +17,4 @@ This application is a FastAPI server that uses the Llama model to answer questio
 2. Navigate to the project directory.
 
 ```bash
-cd path_to_your_directory
+cd llama_fastapi
