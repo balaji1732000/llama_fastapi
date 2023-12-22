@@ -30,3 +30,18 @@ cd llama_fastapi
 ```bash
 .\env\Scripts\activate
 
+   - On Ubuntu, use:
+```bash
+source env/bin/activate
+
+## Install the required dependencies.
+
+```bash
+pip install -r requirements.txt
+
+## Running the Application
+
+**To start the FastAPI server, run the following command:**
+```bash
+uvicorn main:app --reload
+
