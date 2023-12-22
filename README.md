@@ -19,8 +19,14 @@ This application is a FastAPI server that uses the Llama model to answer questio
 ```bash
 cd llama_fastapi
 
-**## Setup** 
+# FastAPI Application
+
+## Setup
+
+1. **Activate the virtual environment.**
+
+   - On Windows, use:
 
 ```bash
-python3 -m venv env
+.\env\Scripts\activate
 
